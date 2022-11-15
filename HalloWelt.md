@@ -38,15 +38,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 # Links
-Noch ein Link auf [Ordbogen][1]
 
-[Link auf ordbogen.com] (https://www.ordbogen.com/da/#/). 
 
-Her finder du et [Link til min hjemmeside](https://www.stinelykkeolsen.dk)
+[Link auf ordbogen.com](https://www.ordbogen.com/da/#/). 
 
-Es gibt noch einen Vorgang: [Link auf Ordbogen][1] 
+Es gibt noch einen Vorgang: [Link auf Ordbogen][1]
 
 
 
-
-[1]: https://ordbogen.com
+[1]: https://ordbogen.com "ordbogen.com"
