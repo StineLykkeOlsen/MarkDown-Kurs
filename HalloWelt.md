@@ -38,12 +38,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 # Links
-
-
 [Link auf ordbogen.com](https://www.ordbogen.com/da/#/). 
 
 Es gibt noch einen Vorgang: [Link auf Ordbogen][1]
 
-
+# E-mails
+E-mail-Adressen werden so formattiert: <stinelykkeolsen@gmail.com>
 
 [1]: https://ordbogen.com "ordbogen.com"
