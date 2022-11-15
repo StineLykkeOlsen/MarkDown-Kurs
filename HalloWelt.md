@@ -46,3 +46,7 @@ Es gibt noch einen Vorgang: [Link auf Ordbogen][1]
 E-mail-Adressen werden so formattiert: <stinelykkeolsen@gmail.com>
 
 [1]: https://ordbogen.com "ordbogen.com"
+
+## Bilder
+
+ ![Mountain Road](https://pixabay.com/get/g9483ecfc4d13ae868fde67addfa0a536b23b12832a1d7601e292517b7e325951d790b171df227fc5985bdcf18199fa3dc41a53bf596948ccd6519fb29f35e9ce1b98b8e4a73cb3026dd670e4c6e37b60_640.jpg "Berge")
